@@ -3,7 +3,7 @@
 **Authors:** Aron Saengchan
 
 ### Summary
-A user-friendly graphical user interface for a filament pultruder device, developed on Python using the Tkinter library. This device is designed to convert commingled yarns into continuous fibre-reinforced polymer composite filament for 3D printing.
+A functional graphical user interface designed for a filament pultruder device, developed on Python using the Tkinter library. The purpose of this device is to convert commingled yarns into continuous fibre-reinforced polymer composite filament for 3D printing.
 
 ### Images
 <div align="center">
